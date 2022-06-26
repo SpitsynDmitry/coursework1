@@ -19,7 +19,6 @@ public class Main {
         list.addEmployee(3, "Ivan Ivanov 2", 100);
         list.addEmployee(4, "Ivan Ivanov 3", 40000);
 
-        // list.setSalary(50);
 
         System.out.println(" Все сотрудники");
         list.printAllEmployees();
